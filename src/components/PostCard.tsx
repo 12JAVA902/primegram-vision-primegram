@@ -134,3 +134,4 @@ export const PostCard = ({ post, onLikeChange }: PostCardProps) => {
     </Card>
   );
 };
+

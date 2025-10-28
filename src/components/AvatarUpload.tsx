@@ -84,3 +84,4 @@ export const AvatarUpload = ({ userId, currentAvatarUrl, username, onUploadCompl
     </div>
   );
 };
+

@@ -159,3 +159,4 @@ export const ReelCard = ({ reel, isActive }: ReelCardProps) => {
     </div>
   );
 };
+
